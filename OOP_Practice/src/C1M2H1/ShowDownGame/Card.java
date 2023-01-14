@@ -1,4 +1,4 @@
-package com.company;
+package C1M2H1.ShowDownGame;
 
 public class Card implements Comparable<Card>{
 
